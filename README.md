@@ -14,6 +14,9 @@
 
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/c5529878-8423-4dfb-81d0-4bf276f13cf3" />
 
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/f2021e9c-5d91-4e2f-9830-b9b2a01f20fd" />
+
+
 <h2>Objective</h2>
 
 This project involves the design and development of a responsive personal portfolio website to showcase my skills, projects, and accomplishments. It features a professional interface with sections for my profile, education, skills, and a gallery of projects. The website is built using modern frontend technologies, providing an interactive and visually appealing experience with smooth navigation and design aesthetics.
